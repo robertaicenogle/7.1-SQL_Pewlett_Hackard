@@ -14,7 +14,7 @@ Data Source:
 
 ### Deliverable 1: The Number of Retiring Employees by Title
 
-
+![](Resources/LineChart.PNG)
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 
