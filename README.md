@@ -14,11 +14,17 @@ Data Source:
 
 ### Deliverable 1: The Number of Retiring Employees by Title
 
-![](Resources/LineChart.PNG)
+![](retirement_titles.PNG)
+
+
+![](unique_titles.PNG)
+
+
+![](retiring_titles.PNG)
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 
-
+![](SQL2.PNG)
 
 ### Deliverable 3: A written report on the employee database analysis
 Summary: 
