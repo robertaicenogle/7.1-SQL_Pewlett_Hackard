@@ -14,16 +14,20 @@ Data Source:
 
 ### Deliverable 1: The Number of Retiring Employees by Title
 
+Here, you can see the number of retiring employees based on title.
+![](retiring_titles.PNG)
+
+
+Additionally, you can see the retirees by title and other employee data.
 ![](retirement_titles.PNG)
 
 
 ![](unique_titles.PNG)
 
 
-![](retiring_titles.PNG)
-
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 
+Below are the employees who are eligible for the Mentorship Program. The full list is available as a CSV file in the data folder.
 ![](SQL2.PNG)
 
 ### Deliverable 3: A written report on the employee database analysis
