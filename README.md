@@ -19,11 +19,12 @@ Here, you can see the number of retiring employees based on title.
 ![](retiring_titles.PNG)
 
 
-Additionally, you can see the retirees by title and other employee data.
-![](retirement_titles.PNG)
-
+Additionally, you can see the retirees by their title during retirement, as well as additional employee data in table 2.
 
 ![](unique_titles.PNG)
+
+![](retirement_titles.PNG)
+
 
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
