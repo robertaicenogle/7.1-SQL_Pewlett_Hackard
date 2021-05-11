@@ -15,6 +15,7 @@ Data Source:
 ### Deliverable 1: The Number of Retiring Employees by Title
 
 Here, you can see the number of retiring employees based on title.
+
 ![](retiring_titles.PNG)
 
 
