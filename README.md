@@ -34,8 +34,5 @@ Below are the employees who are eligible for the Mentorship Program. The full li
 
 ### Deliverable 3: A written report on the employee database analysis
 Summary: 
-- Provide high-level responses to the following questions:
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
-- Provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+- Based on the data, there are a total 0f 90,398 employees nearing retirement, nearly 40% of the companies total number of employees. However, there are only just over 1,500 employees eligible to mentor next generation of Pewlett Hackard employees. As a result, I do not think the company is ready for the upcoming "silver tsunami."
+- Two additional queries or tables that may provide further insight into the upcoming change in employment include retiring employees per department and eligible mentors per department. Further analysis - and even additional payments for mentorship eligible employees to stay on longer - are necessary.
