@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# SQL HR Database
 
 ## Project Overview
 In this project we'll use PostgreSQL to analyze Pewlett Hackards employee database in order to help manage employee retirement/turnover. Specifically, we'll determine the number of retiring employees in each title, and identify which employees are able to engage in an employee mentorship program.
